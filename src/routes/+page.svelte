@@ -39,6 +39,7 @@
 
 <a
 	href="/about"
-	class="absolute top-1/2 left-1/2 mt-[250px] -translate-x-1/2 -translate-y-1/2 transform rounded border border-black px-6 py-2 transition duration-300 ease-in-out hover:bg-neutral-900 hover:text-neutral-100"
+	class="absolute top-1/2 left-1/2 mt-[250px] -translate-x-1/2 -translate-y-1/2 transform rounded border border-black p-1 px-3 transition-all duration-500 hover:bg-black hover:text-white dark:border-white dark:hover:bg-white dark:hover:text-black"
+
 	>Curious?</a
 >
